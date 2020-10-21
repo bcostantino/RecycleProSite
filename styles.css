@@ -3,7 +3,7 @@
 	padding: 0;
 }
 
-header {
+body {
 	background-image: url(images/wave-ocean.jpg);
 	height: 100vh;
 	background-size: cover;
@@ -49,4 +49,8 @@ header {
 .row {
 	max-width: 1600px;
 	margin: auto;
+}
+
+.container {
+  display: block;
 }
